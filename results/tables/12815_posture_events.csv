@@ -1,0 +1,30 @@
+record_name,event_index,time_s,sample,label
+12815,1,367.66,91915,Initiation of slow tilt up
+12815,2,417.824,104456,Conclusion of slow tilt up
+12815,3,610.952,152738,Initiation of slow tilt down
+12815,4,660.364,165091,Conclusion of slow tilt down
+12815,5,714.404,178601,Blood pressure signal fades
+12815,6,745.18,186295,Switched off Finapres
+12815,7,751.38,187845,Switched Finapres on
+12815,8,821.216,205304,Blood pressure artifacts
+12815,9,841.644,210411,Switched off Finapres
+12815,10,853.228,213307,Switched Finapres on
+12815,11,1106.016,276504,Initiation of rapid tilt up
+12815,12,1107.98,276995,Conclusion of rapid tilt up
+12815,13,1338.944,334736,Initiation of rapid tilt down
+12815,14,1340.54,335135,Initiation of rapid tilt down
+12815,15,1367.812,341953,Blood pressure signal fades
+12815,16,1435.484,358871,Switched off Finapres
+12815,17,1478.596,369649,Switched Finapres on
+12815,18,1745.924,436481,Initiation of slow tilt up
+12815,19,1795.608,448902,Conclusion of slow tilt up
+12815,20,1983.544,495886,Initiation of slow tilt down
+12815,21,2032.916,508229,Conclusion of slow tilt down
+12815,22,2383.784,595946,Initiation of rapid tilt up
+12815,23,2385.36,596340,Conclusion of rapid tilt up
+12815,24,2601.32,650330,Initiation of rapid tilt down
+12815,25,2602.756,650689,Conclusion of rapid tilt down
+12815,26,2950.116,737529,Stand up
+12815,27,3152.068,788017,Transition back to supine
+12815,28,3483.776,870944,Stand up
+12815,29,3709.56,927390,Transition back to supin

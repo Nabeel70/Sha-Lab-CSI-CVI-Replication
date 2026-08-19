@@ -1,0 +1,11 @@
+record_name,sample_rate_hz,n_samples,duration_s,duration_min,n_channels,channel_names,annotation_types
+12726,250,825000,3300.0,55.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12734,250,825000,3300.0,55.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12744,250,930000,3720.0,62.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12754,250,870000,3480.0,58.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12755,250,900000,3600.0,60.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12814,250,900000,3600.0,60.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12815,250,1026664,4106.656,68.444,3,ABP;ECG;Angle,anI;wabp;wqrs
+12819,250,1110000,4440.0,74.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+12821,250,930000,3720.0,62.0,3,ABP;ECG;Angle,anI;wabp;wqrs
+13960,250,927500,3710.0,61.833,3,ABP;ECG;Angle,anI;wabp;wqrs

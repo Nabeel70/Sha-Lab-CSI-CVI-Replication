@@ -1,0 +1,27 @@
+record_name,event_index,time_s,sample,label
+13960,1,6.564,1641,Break in signal
+13960,2,327.044,81761,Initiate rapid tilt up
+13960,3,329.288,82322,Conclude rapid tilt up
+13960,4,538.616,134654,Initiate rapid tilt down
+13960,5,540.18,135045,Conclude rapid tilt down
+13960,6,860.304,215076,Stand up
+13960,7,1049.936,262484,Transition back to supine
+13960,8,1370.9,342725,Initiate rapid tilt up
+13960,9,1373.208,343302,Conclude rapid tilt up
+13960,10,1584.448,396112,Initiate rapid tilt down
+13960,11,1585.992,396498,Conclude rapid tilt down
+13960,12,1906.564,476641,Initiate slow tilt up
+13960,13,1957.6,489400,Conclude slow tilt up
+13960,14,2173.636,543409,Initiate slow tilt down
+13960,15,2223.168,555792,Conclude slow tilt down
+13960,16,2536.504,634126,Stand up
+13960,17,2543.88,635970,Blood pressure signal faded
+13960,18,2731.848,682962,Transition back to supine
+13960,19,2736.3,684075,Blood pressure signal faded again
+13960,20,2806.828,701707,Switched off FINAPRES
+13960,21,2813.92,703480,Switched FINAPRES back on
+13960,22,2828.292,707073,Blood pressure signal back up
+13960,23,3049.796,762449,Initiate slow tilt up
+13960,24,3101.26,775315,Conclude slow tilt up
+13960,25,3306.704,826676,Initiate slow tilt down
+13960,26,3356.44,839110,Conclude slow tilt dow

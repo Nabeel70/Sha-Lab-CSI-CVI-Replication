@@ -1,0 +1,22 @@
+record_name,event_index,time_s,sample,label
+12755,1,326.544,81636,Failed attempt to tilt rapidly
+12755,2,473.472,118368,Initiate rapid tilt up
+12755,3,476.664,119166,Initiate rapid tilt up
+12755,4,659.388,164847,Initiate rapid tilt down
+12755,5,660.532,165133,Initiate rapid tilt down
+12755,6,990.344,247586,Initiate slow tilt up
+12755,7,1041.644,260411,Conclude slow tilt up
+12755,8,1240.376,310094,Initiate slow tilt down
+12755,9,1289.704,322426,Conclude slow tilt down
+12755,10,1551.032,387758,Stand up
+12755,11,1731.924,432981,Transition back to supine
+12755,12,2031.984,507996,Initiation of slow tilt up
+12755,13,2081.52,520380,Conclusion of slow tilt up
+12755,14,2275.076,568769,Initiation of slow tilt down
+12755,15,2324.22,581055,Conclusion of slow tilt down
+12755,16,2644.364,661091,Stand up
+12755,17,2832.716,708179,Transition back to supine
+12755,18,3134.86,783715,Initiation of rapid tilt up
+12755,19,3136.588,784147,Conclusion of rapid tilt up
+12755,20,3328.824,832206,Initiation of rapid tilt down
+12755,21,3330.132,832533,Conclusion of rapid tilt dow

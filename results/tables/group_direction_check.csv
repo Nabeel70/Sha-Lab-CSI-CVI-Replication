@@ -1,0 +1,2 @@
+n_records,n_csi_up,n_cvi_down,n_both_match_expectation,pct_match,mean_CSI_change,mean_CVI_change
+10,9,10,9,90.0,0.11212294589275669,-0.2613090203392325

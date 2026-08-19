@@ -1,0 +1,3 @@
+record_name,event_label,event_time_s,window,CSI_mean,CVI_mean,n_samples
+12726,Initiate slow tilt up,348.96,pre,2.3208159916513256,2.715321332538638,480
+12726,Initiate slow tilt up,348.96,post,2.4925779550604337,2.4300416246670853,480

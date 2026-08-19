@@ -1,0 +1,23 @@
+record_name,event_index,time_s,sample,label
+12726,1,348.96,87240,Initiate slow tilt up
+12726,2,400.428,100107,Conclude slow tilt up
+12726,3,588.276,147069,Initiate slow tilt down
+12726,4,638.412,159603,Conclude slow tilt down
+12726,5,1001.192,250298,Initiate rapid tilt up
+12726,6,1003.504,250876,Conclude rapid tilt up
+12726,7,1052.188,263047,Movement artifacts
+12726,8,1202.332,300583,Initiate rapid tilt down
+12726,9,1204.832,301208,Conclude rapid tilt down
+12726,10,1557.116,389279,Stand up
+12726,11,1560.332,390083,Lost ECG signal due to poor electrode-skin contacL
+12726,12,1751.836,437959,Transition back to supine
+12726,13,2012.284,503071,Stand up
+12726,14,2192.828,548207,Transition back to supine
+12726,15,2447.84,611960,Initiate slow tilt up
+12726,16,2499.24,624810,Conclude slow tilt up
+12726,17,2672.708,668177,Initiate slow tilt down
+12726,18,2722.868,680717,Conclude slow tilt down
+12726,19,2927.924,731981,Initiate rapid tilt up
+12726,20,2929.908,732477,Conclude rapid tilt up
+12726,21,3077.752,769438,Initiate rapid tilt down
+12726,22,3079.852,769963,Conclude rapid tilt down

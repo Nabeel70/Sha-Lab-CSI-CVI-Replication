@@ -1,0 +1,25 @@
+record_name,event_index,time_s,sample,label
+12814,1,364.592,91148,Stand up
+12814,2,368.94,92235,Loss of ECG signal
+12814,3,380.264,95066,ECG signal is back
+12814,4,509.124,127281,Transition back to supine
+12814,5,897.596,224399,Initiate rapid tilt up
+12814,6,899.124,224781,Conclude rapid tilt up
+12814,7,900.992,225248,Loss of ECG signal
+12814,8,930.588,232647,ECG signal is back
+12814,9,1078.92,269730,Initiate rapid tilt down
+12814,10,1080.24,270060,Conclude rapid tilt down
+12814,11,1426.456,356614,Initiate rapid tilt up
+12814,12,1427.984,356996,Conclude rapid tilt up
+12814,13,1626.38,406595,Initiate rapid tilt down
+12814,14,1627.64,406910,Conclude rapid tilt down
+12814,15,1959.896,489974,Initiate slow tilt up
+12814,16,2010.22,502555,Conclude slow tilt up
+12814,17,2162.58,540645,Initiate slow tilt down
+12814,18,2212.212,553053,Conclude slow tilt down
+12814,19,2537.64,634410,Initiate slow tilt up
+12814,20,2587.456,646864,Conclude slow tilt up
+12814,21,2777.192,694298,Initiate slow tilt down
+12814,22,2826.828,706707,Conclude slow tilt down
+12814,23,3087.74,771935,Stand up
+12814,24,3281.48,820370,Transition back to supine

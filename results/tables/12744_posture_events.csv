@@ -1,0 +1,22 @@
+record_name,event_index,time_s,sample,label
+12744,1,385.656,96414,Initiation of rapid tilt up
+12744,2,387.208,96802,Conclusion of rapid tilt up
+12744,3,585.468,146367,Initiation of rapid tilt down
+12744,4,586.544,146636,Conclusion of rapid tilt down
+12744,5,923.032,230758,Misfire of marker signal
+12744,6,935.256,233814,Initiation of slow tilt up
+12744,7,984.664,246166,Conclusion of slow tilt up
+12744,8,1183.716,295929,Initiation of slow tilt down
+12744,9,1232.124,308031,Conclusion of slow tilt down
+12744,10,1551.064,387766,Stand up
+12744,11,1730.82,432705,Transition back to supine
+12744,12,2043.704,510926,Stand up
+12744,13,2234.884,558721,Transition back to supine
+12744,14,2561.124,640281,Initiation of slow tilt up
+12744,15,2610.88,652720,Conclusion of slow tilt up
+12744,16,2796.016,699004,Initiation of slow tilt down
+12744,17,2845.032,711258,Conclusion of slow tilt down
+12744,18,3201.36,800340,Initiation of rapid tilt up
+12744,19,3203.008,800752,Conclusion of rapid tilt up
+12744,20,3416.036,854009,Initiation of rapid tilt down
+12744,21,3417.4,854350,Conclusion of rapid tilt dow

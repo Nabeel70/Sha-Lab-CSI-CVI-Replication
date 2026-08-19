@@ -1,0 +1,22 @@
+record_name,event_index,time_s,sample,label
+12754,1,351.844,87961,0 -1 0 	Stand up
+12754,2,553.844,138461,Transition back to supine
+12754,3,871.608,217902,Initiate rapid tilt up
+12754,4,873.164,218291,Conclude rapid tilt up
+12754,5,1082.016,270504,Initiate rapid tilt down
+12754,6,1083.616,270904,Conclude rapid tilt down
+12754,7,1380.044,345011,Stand up
+12754,8,1583.412,395853,Transition back to supine
+12754,9,1605.68,401420,ECG noise due to poor electrode contact
+12754,10,1927.172,481793,Initiate rapid tilt up
+12754,11,1928.98,482245,Conclude rapid tilt up
+12754,12,2114.224,528556,Initiate rapid tilt down
+12754,13,2115.872,528968,Conclude rapid tilt down
+12754,14,2353.504,588376,Initiate slow tilt up
+12754,15,2406.34,601585,Conclude slow tilt up
+12754,16,2602.468,650617,Initiate slow tilt down
+12754,17,2652.436,663109,Conclude slow tilt down
+12754,18,3016.888,754222,Initiate slow tilt up
+12754,19,3067.072,766768,Conclude slow tilt up
+12754,20,3282.012,820503,Initiate slow tilt down
+12754,21,3331.676,832919,Conclude slow tilt dow

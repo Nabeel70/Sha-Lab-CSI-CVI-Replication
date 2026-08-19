@@ -1,0 +1,21 @@
+record_name,event_index,time_s,sample,label
+12734,1,300.7,75175,Start slow tilt up
+12734,2,352.132,88033,End slow tilt up
+12734,3,545.548,136387,Start slow tilt down
+12734,4,596.34,149085,End slow tilt down
+12734,5,904.116,226029,Start fast tilt up
+12734,6,906.4,226600,End fast tilt up
+12734,7,1093.504,273376,Start fast tilt down
+12734,8,1095.304,273826,End fast tilt down
+12734,9,1362.804,340701,Start slow tilt up
+12734,10,1414.388,353597,End slow tilt up
+12734,11,1600.516,400129,Start slow tilt down
+12734,12,1650.424,412606,End slow tilt back down
+12734,13,2077.62,519405,Stand-up from supine
+12734,14,2237.072,559268,Back to supine
+12734,15,2529.936,632484,Stand-up from supine
+12734,16,2696.948,674237,Back to supine
+12734,17,2980.208,745052,Start rapid tilt up
+12734,18,2981.692,745423,End rapid tilt up
+12734,19,3167.396,791849,Start rapid tilt down
+12734,20,3169.176,792294,End rapid tilt down
